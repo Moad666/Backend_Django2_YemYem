@@ -1,0 +1,7 @@
+organization=yemyem
+projectKey=yemyem_django2
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=yemyem_django2
+ceTaskId=AYy2Nosz4bT-Tn4kKAvG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYy2Nosz4bT-Tn4kKAvG
